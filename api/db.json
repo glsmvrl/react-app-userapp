@@ -1,0 +1,23 @@
+{
+
+    "users" : [
+        {
+            "id" : "unique-1",
+            "name" : "Gülsüm Vural",
+            "salary" : "25.000",
+            "department" : "Full Stack Developer"
+          },
+          {
+            "id" : "unique-2",
+            "name" : "Ferit Can Tümer",
+            "salary" : "30.000",
+            "department" : "Frontend Developer"
+          },
+          {
+            "id" : "unique-3",
+            "name" : "Sibel Göktaş",
+            "salary" : "20.000",
+            "department" : "İKA"
+          }
+    ]
+}
